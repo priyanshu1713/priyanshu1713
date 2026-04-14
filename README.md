@@ -29,21 +29,21 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - Into **AI, startups, blockchain** and systems that scale without constant effort
 
-- If it works, **I planned it**. If it breaks, it’s a **feature**
+- Currently exploring applied **AI (LLMs, embeddings, retrieval systems), decentralized apps on Ethereum**, and scalable product architectures
   
 - Building **Productica**
 
 - I’m into **football, volleyball, basketball** and a bit of **chess**
 
-- ⚡ Fun fact — *I’m introvert AF but ship loud products.*
+- If it works, **I planned it**. If it breaks, it’s a **feature**
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,python,java,git,linux,mysql,figma,vercel" height="50" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=priyanshu1713&theme=tokyo-night&hide_border=false&border_radius=5" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 🧠 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu1713&theme=tokyo-night&hide_border=true&area=true" alt="Priyanshu's GitHub activity graph" />
