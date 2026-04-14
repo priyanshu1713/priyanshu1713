@@ -1,4 +1,6 @@
-<h1 align="center">hi waddup</h1> <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/>
+<div alig="center">
+  <h1 align="center">hi waddup</h1> <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/>
+</div>
 <h3 align="center">I'm Priyanshu Bhati — a developer from India building AI-driven products and web experiences.</h3>
 
 ###
