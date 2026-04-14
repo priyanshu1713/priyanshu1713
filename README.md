@@ -52,17 +52,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/priyanshu1713/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/priyanshu1713/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/priyanshu1713/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=priyanshu1713&theme=tokyo-night&hide_border=false&border_radius=5" />
 
-<details>
-  <summary>More stats</summary>
-  
-<img src="https://raw.githubusercontent.com/priyanshu1713/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu1713&theme=tokyonight&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
 <hr>
 
 **Code Cycle**<br>
